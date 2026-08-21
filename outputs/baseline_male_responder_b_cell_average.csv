@@ -1,0 +1,2 @@
+condition,sex,response,time_from_treatment_start,sample_types,treatments,matching_samples,total_b_cells,average_b_cells
+melanoma,M,yes,0,all,all,485,4949983,10206.15
