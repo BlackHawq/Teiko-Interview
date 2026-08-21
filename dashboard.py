@@ -1,5 +1,5 @@
 """Interactive Streamlit dashboard for the Teiko cell-count analysis."""
-"""Made by Hammud Haq for Teiko Interview"""
+
 import hashlib
 import sqlite3
 from pathlib import Path
