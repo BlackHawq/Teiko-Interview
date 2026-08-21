@@ -1,5 +1,5 @@
 """Interactive Streamlit dashboard for the Teiko cell-count analysis."""
-
+"""Made by Hammud Haq for Teiko Interview"""
 import hashlib
 import sqlite3
 from pathlib import Path
@@ -15,7 +15,7 @@ DB_PATH = ROOT / "teiko.db"
 POPULATIONS = ["b_cell", "cd8_t_cell", "cd4_t_cell", "nk_cell", "monocyte"]
 
 st.set_page_config(page_title="Teiko immune cell analysis", layout="wide")
-st.title("Immune Cell Population Analysis")
+st.title("Immune Cell Population Analysis by Hammud Haq")
 st.caption("Clinical trial cell-count explorer")
 
 
